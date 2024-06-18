@@ -1,7 +1,9 @@
 # file-eksplorasi
 
-JOHAN
-221063117
+Johan\
+2210631170023\
+Pemrograman Web\
+Kamal Prihandani
 
 # file eksploorasi mandiri
 dimana saya eksplorasi tentang pengenalan postman dan pengenalan base64.
